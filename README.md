@@ -1,0 +1,1 @@
+# SpeechToText-StepsOfWritingESP32
